@@ -1,0 +1,19 @@
+.table1{
+    margin-top:10px;
+    font-size: 30px;
+}
+.table1 th {
+    background: rgb(209, 207, 207);
+}
+.table1 td,.table1 th {
+    text-align: left;
+    padding-top:5px ;
+    padding-bottom:5px ;
+    padding-left: 15px;
+    padding-right:60px ;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #000;
+}
+.spl{
+    color :rgb(138, 248, 138)
+}
